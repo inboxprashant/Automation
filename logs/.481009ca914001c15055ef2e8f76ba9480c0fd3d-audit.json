@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\.481009ca914001c15055ef2e8f76ba9480c0fd3d-audit.json",
+    "files": [
+        {
+            "date": 1779442787892,
+            "name": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\app-2026-05-22.log",
+            "hash": "4349c352d13623603a39b8044be8e72a643458b33e0ec7c66cb2f7bfa6e3b8bb"
+        },
+        {
+            "date": 1779475942711,
+            "name": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\app-2026-05-23.log",
+            "hash": "62d5ac555740b5d025d19e36068f19181adaaa38f4d3ae147f9c60ddb7d0426e"
+        },
+        {
+            "date": 1779814794345,
+            "name": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\app-2026-05-26.log",
+            "hash": "c32cc8dac1469aaf28db412e5a1b6a50d448bdf80e4a2405a3ed4825968ff23c"
+        },
+        {
+            "date": 1779822099480,
+            "name": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\app-2026-05-27.log",
+            "hash": "0c31490ac4133226339cedb0d94fde449f72ee4bfbd5dc6ce795662dcd4d8a4e"
+        },
+        {
+            "date": 1779907588744,
+            "name": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\app-2026-05-28.log",
+            "hash": "35c58bc6b2261506dae63d093af9f1c045590ed7852cc7c474f76dd724db5301"
+        },
+        {
+            "date": 1780050929158,
+            "name": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\app-2026-05-29.log",
+            "hash": "27f592f0ba1cc6719176c4cbb61ce05749de69d515458eeec95b3140308e4578"
+        },
+        {
+            "date": 1780127309757,
+            "name": "C:\\Users\\Prash\\Desktop\\Automation\\logs\\app-2026-05-30.log",
+            "hash": "9ba11b8aaf98b9fac2be136d2b5a641ed02ad3307c670446f7efd15ffecdc95e"
+        }
+    ],
+    "hashType": "sha256"
+}

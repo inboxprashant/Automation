@@ -1,0 +1,63 @@
+node_modules/
+.env
+output/*.mp4
+temp/
+logs/*.log
+logs/*.gz
+__pycache__/
+*.pyc
+.venv/
+
+# Generated scripts (keep README, ignore JSON)
+project/scripts/**/*.json
+
+# Generated trend reports (keep README, ignore JSON)
+project/trends/*.json
+
+# Generated voice files (keep README, ignore MP3 + sidecar JSON)
+project/voices/**/*.mp3
+project/voices/**/*.json
+
+# Generated captions (keep README, ignore all generated files)
+project/captions/**/*.srt
+project/captions/**/*.vtt
+project/captions/**/*.json
+
+# Rendered videos (keep README, ignore MP4s)
+project/renders/**/*.mp4
+project/renders/index.json
+
+# Asset binaries (not committed)
+assets/backgrounds/*.mp4
+assets/backgrounds/*.mov
+assets/backgrounds/*.webm
+assets/music/*.mp3
+assets/music/*.wav
+assets/music/**/*.mp3
+assets/fonts/*.ttf
+assets/fonts/*.otf
+
+# Downloaded stock clips (keep README, ignore MP4s and index)
+project/clips/**/*.mp4
+project/clips/index.json
+
+# Generated thumbnails (keep README, ignore JPGs and index)
+project/thumbnails/**/*.jpg
+project/thumbnails/index.json
+
+# Upload logs (keep README, ignore log data and cached token)
+project/logs/uploads.ndjson
+project/logs/upload_index.json
+project/logs/oauth_token.json
+project/logs/queue_state.json
+project/logs/workflow_runs.ndjson
+project/logs/retry_state.json
+
+# Analytics data (keep README, ignore generated data)
+project/analytics/index.json
+project/analytics/snapshots/
+project/analytics/reports/
+
+# Dashboard build artifacts
+dashboard/.next/
+dashboard/node_modules/
